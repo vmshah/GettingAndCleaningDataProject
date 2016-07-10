@@ -27,5 +27,6 @@ The *run_analysis.R* script does the following using the downloaded data sets
 4. Start R or RStudio.
 5. Make sure that you have installed the R **dplyr** package.
 5. Set the working directory to the folder where the features.txt exists.
-6. Run the script within your R environment by executing the command .. `source("run_analysis.R")` ..
+6. Run the script within your R environment by executing the command 
+  `source("run_analysis.R")`
 7. Succesful execution of the script should result in the print out of the tidy data set.
