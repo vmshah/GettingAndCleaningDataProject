@@ -1,4 +1,4 @@
-# GettingAndCleaningDataProject
+# Getting And Cleaning Data Project
 Getting and Cleaning Data Course Project Assignment
 
 This GIT repository contains the files that were created for the Getting and Cleaning Data Course Project Assignment.
